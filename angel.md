@@ -1,0 +1,1 @@
+A patron of an [[enlightened being]], one who has been gifted powers unchained from the burden of a contract, usually given as exchange for helping the [[enlightened being]] attain their powers.

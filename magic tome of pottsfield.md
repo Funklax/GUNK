@@ -1,0 +1,1 @@
+A powerful tome, that could be used to discover many [[ritual rune]]s to enhance rituals.

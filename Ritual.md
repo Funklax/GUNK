@@ -1,0 +1,1 @@
+A magical ritual, that can be enhanced with [[ritual rune]]s and by the [[meteor]]

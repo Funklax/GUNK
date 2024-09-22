@@ -1,0 +1,1 @@
+Someone who has performed a [[ritual of ascension]] and has become a demigod.
