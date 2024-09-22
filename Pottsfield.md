@@ -1,6 +1,6 @@
 #Place #Catalyst
 The first location for the party to liberate for the [[ritual of separation]].
-After liberation, [[BBEG]] places a [[ritual rune]] in the basement of the [[Pottsfield Town Hall]].
+After liberation, [[Albert Flannigan]] places a [[ritual rune]] in the basement of the [[Pottsfield Town Hall]].
 
 The theme for this place is positioning.
 The main boss of the area is a fighter.

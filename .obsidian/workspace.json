@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "bd20b3b5889858d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4db95ab2bbbdaed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e76a5fe03bc1edc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a3f60e1777497a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a9d2e13d586134d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "869c69e2c466453e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d13f2099b919cd15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "BBEG",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74aa37968ee36ca0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "09eaf70ad78cc783",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1b8d9826a43cd08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d03221f04d9abee3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapter 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d1314a612188ec0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapter 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7ef6aeb3e92eae3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a62d2342f2ca98c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapter 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e76a5fe03bc1edc0",
+  "lastOpenFiles": [
+    "Albert Flannigan's Tower.md",
+    "Albert Flannigan.md",
+    "BBEG.md",
+    "Chapter 1.md",
+    "meteor.md"
+  ]
+}

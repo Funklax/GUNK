@@ -11,5 +11,7 @@ There are 5 key locations that are necessary for the ritual
 [[Von Windstelt]]
 
 
-Once all 5 of those locations have been brought under [[BBEG]]'s control, he will begin the [[Ritual]] from [[Secret Island]]
+Once all 5 of those locations have been brought under [[Albert Flannigan]]'s control, he will begin the [[Ritual]] from [[Secret Island]]
+
+
 

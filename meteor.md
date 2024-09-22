@@ -1,3 +1,3 @@
-The meteor that, millennia ago at the [[The Great Shatter]], crashed into the world and created the [[grand deep]]. The meteor itself is still preserved on [[Secret Island]], and is the location for the [[ritual of separation]] [[BBEG]] wishes to carry out. It is located in the basement of the [[BBEG's tower]], and the place that the ritual begins at.
+The meteor that, millennia ago at the [[The Great Shatter]], crashed into the world and created the [[grand deep]]. The meteor itself is still preserved on [[Secret Island]], and is the location for the [[ritual of separation]] [[Albert Flannigan]] wishes to carry out. It is located in the basement of the [[Albert Flannigan's Tower]], and the place that the ritual begins at.
 
 The meteor itself contains residual magical energy that can be harnessed in specific rituals in order to increase their potency.
